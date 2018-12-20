@@ -16,7 +16,7 @@ Diploma thesis, TU Munich, 1991
 [1] Y. Bengio, P. Simard, and P. Frasconi. Learning long-term dependencies with gradient descent is difficult. IEEE Transactions on Neural
 Networks, 5(2):157–166, 1994.
 
-[8] X. Glorot and Y. Bengio. Understanding the difficulty of training
-deep feedforward neural networks. In AISTATS, 2010.
+[8] [X. Glorot and Y. Bengio. Understanding the difficulty of training
+deep feedforward neural networks. In AISTATS, 2010.](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 
-##
+## degradation
