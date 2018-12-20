@@ -2,7 +2,7 @@
 
 ## ResNet
 
-[author official](https://github.com/KaimingHe/deep-residual-networks)
+[Author official](https://github.com/KaimingHe/deep-residual-networks)
 
 [TensorFlow official](https://github.com/tensorflow/models/tree/master/official/resnet)
 
