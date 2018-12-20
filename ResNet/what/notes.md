@@ -20,3 +20,28 @@ Networks, 5(2):157–166, 1994.
 deep feedforward neural networks. In AISTATS, 2010.](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 
 ## degradation
+
+> When deeper networks are able to start converging, a degradation problem has been exposed: with the network depth increasing, accuracy gets saturated (which might be unsurprising) and then degrades rapidly.
+> Unexpectedly, such degradation is not caused by overfitting, and adding more layers to a suitably deep model leads to higher training error, as reported in [10, 41] and thoroughly verified by our experiments. Fig. 1 shows a typical example.
+
+
+## batch normalization
+
+> We adopt batch normalization (BN) [16] right after each convolution and before activation, following [16].
+
+> We argue that this optimization difficulty is unlikely to
+be caused by vanishing gradients. These plain networks are
+trained with BN [16], which ensures forward propagated
+signals to have non-zero variances. We also verify that the
+backward propagated gradients exhibit healthy norms with
+BN. So neither forward nor backward signals vanish.
+
+[16] [S. Ioffe and C. Szegedy. Batch normalization: Accelerating deep network training by reducing internal covariate shift. In ICML, 2015.](http://proceedings.mlr.press/v37/ioffe15.pdf)
+
+## mini-batch
+
+>  We use SGD with a mini-batch size of 256.
+
+
+
+##  
