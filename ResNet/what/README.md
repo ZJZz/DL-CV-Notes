@@ -42,6 +42,6 @@ BN. So neither forward nor backward signals vanish.
 
 >  We use SGD with a mini-batch size of 256.
 
+##  参考资料
 
-
-##  
+[Understanding and Implementing Architectures of ResNet and ResNeXt for state-of-the-art Image Classification: From Microsoft to Facebook [Part 1]](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624)
