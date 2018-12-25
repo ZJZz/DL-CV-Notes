@@ -3,6 +3,7 @@
 目标：
 
 - 知道每个概念的含义
+- 没个参数对结果的影响
 - 在有多种选择的情况下知道每个选项的优劣
 
 
@@ -43,6 +44,8 @@
 
 #### batch normalization
 
+[批量归一化-动手学深度学习](http://zh.diveintodeeplearning.org/chapter_convolutional-neural-networks/batch-norm.html)
+
 #### fully connected
 
 
@@ -56,6 +59,8 @@
 
 [谷歌工程师：聊一聊深度学习的weight initialization](https://www.leiphone.com/news/201703/3qMp45aQtbxTdzmK.html)
 
+[数值稳定性和模型初始化-动手学深度学习](http://zh.diveintodeeplearning.org/chapter_deep-learning-basics/numerical-stability-and-init.html)
+
 - Initializing all weights to 0
 
 - Initializing weights randomly
@@ -67,8 +72,6 @@
 - pre-trained
 
 ### batch size
-
-- mini-batch
 
 ### epochs
 
@@ -97,11 +100,15 @@ A loss function **is a part of a** cost function **which is a type of** an objec
 
 ### optimizer
 
-- Adam
+- gradient descent
 
 - SGD
 
 - Momentum
+
+- Mini-Batch SGD
+
+- Adam
 
 - RMSProp
 
@@ -123,13 +130,15 @@ A loss function **is a part of a** cost function **which is a type of** an objec
 
 ## 评估模型
 
-### parameters
+### total parameters
 
 ### complexity
 
 - FLOPs
 
 ## 常见问题
+
+[数值稳定性和模型初始化-动手学深度学习](http://zh.diveintodeeplearning.org/chapter_deep-learning-basics/numerical-stability-and-init.html)
 
 - overfitting / underfitting
 
