@@ -71,11 +71,13 @@
 
 - pre-trained
 
+- weight decay
+
 ### batch size
 
 ### epochs
 
-### learning rate
+### learning rate(most important hyper-parameter)
 
 - decay
 
