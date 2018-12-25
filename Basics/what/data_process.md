@@ -8,6 +8,8 @@
 
 - data augmentation
 
+[图像增广--动手学深度学习](http://zh.diveintodeeplearning.org/chapter_computer-vision/image-augmentation.html)
+
   - rotation
   - translation
   - zoom
