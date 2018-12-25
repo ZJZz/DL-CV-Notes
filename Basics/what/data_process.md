@@ -15,3 +15,5 @@
   - zoom
   - flips
   - color perturbation
+
+- generator

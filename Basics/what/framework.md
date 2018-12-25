@@ -12,6 +12,4 @@
 
 [Create and train a Model](https://cs230-stanford.github.io/tensorflow-model.html#putting-input_fn-and-model_fn-together)
 
-
-
 ## Keras
