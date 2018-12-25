@@ -8,4 +8,4 @@
 
 ## ResNet50
 
-[TensorFlow official](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/eager/python/examples/resnet50) 
+[TensorFlow official](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/eager/python/examples/resnet50)
